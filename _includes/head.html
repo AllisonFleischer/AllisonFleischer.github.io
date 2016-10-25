@@ -11,11 +11,11 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: full_base_url }}">
-  
-  <link rel="icon" type="image/png" href="siteimg/avatar.png" sizes= "100x100, 76x76, 60x60, 32x32, 16x16" />
-  <link rel="icon" type="image/png" href="siteimg/avatar_medium.png" sizes="192x192, 152x152, 120x120" />
-  <link rel="apple-touch-icon" href="siteimg/avatar_medium.png" />
-  
+
+  <link rel="icon" type="image/png" href="{{"/siteimg/avatar.png" | prepend: full_base_url}}" sizes= "100x100, 76x76, 60x60, 32x32, 16x16" />
+  <link rel="icon" type="image/png" href="{{"/siteimg/avatar_medium.png" | prepend: full_base_url}}" sizes="192x192, 152x152, 120x120" />
+  <link rel="apple-touch-icon" href="{{"/siteimg/avatar_medium.png" | prepend: full_base_url}}" />
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
