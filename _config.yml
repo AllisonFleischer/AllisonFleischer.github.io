@@ -24,6 +24,8 @@ url: "https://crazya02.github.io" # the base hostname & protocol for your site
 twitter_username: crazyal02
 github_username:  crazya02
 
+repository: "crazya02/crazya02.github.io"
+
 # Build settings
 markdown: kramdown
 theme: minima
