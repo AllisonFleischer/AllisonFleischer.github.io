@@ -38,3 +38,51 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 @import "base";
+
+
+.site-header {
+		background-color: #16506b;
+		background: linear-gradient(322deg, #228a87, #0c3635, #144247, #16506b, #16506b, #15719b);
+		background-size: 1200% 1200%;
+
+		-webkit-animation: AnimationName 10s ease infinite;
+		-moz-animation: AnimationName 10s ease infinite;
+		animation: AnimationName 10s ease infinite;
+
+		@-webkit-keyframes AnimationName {
+			0%{background-position:25% 0%}
+			50%{background-position:76% 100%}
+			100%{background-position:25% 0%}
+		}
+		@-moz-keyframes AnimationName {
+			0%{background-position:25% 0%}
+			50%{background-position:76% 100%}
+			100%{background-position:25% 0%}
+		}
+		@keyframes AnimationName {
+			0%{background-position:25% 0%}
+			50%{background-position:76% 100%}
+			100%{background-position:25% 0%}
+		}
+
+		border-top: 5px solid $grey-color-light;
+		border-bottom: 1px solid $grey-color-light;
+		min-height: 500px;
+
+		// Positioning context for the mobile navigation icon
+		position: relative;
+}
+
+.site-title {
+		font-size: 26px;
+		font-weight: 300;
+		line-height: 500px;
+		letter-spacing: -1px;
+		margin-bottom: 0;
+		float: left;
+
+		&,
+		&:visited {
+				color: $grey-color-dark;
+		}
+}
