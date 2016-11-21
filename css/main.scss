@@ -72,13 +72,13 @@ $on-laptop:        800px;
 		// Positioning context for the mobile navigation icon
 		position: relative;
 }
-/*@media screen and (max-width: 1000px) {
+/*@media screen and (max-width: 1100px) {
 	.site-header {
 		height: 54px;
 	}
 }*/
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1100px) {
 	.site-logo {
 		height: 54px;
 	}
@@ -102,7 +102,7 @@ $on-laptop:        800px;
 				color: $grey-color-dark;
 		}
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1100px) {
 	.site-title {
 		font-size: 24px;
 	}
