@@ -42,7 +42,7 @@ $on-laptop:        800px;
 
 .site-header {
 		background-color: #16506b;
-		background: linear-gradient(322deg, #001027, #021335, #0c2247, #16506b, #16506b, #15719b);
+		background: linear-gradient(322deg, #001027, #021335, #0c2247, #16506b, #26607b, #15719b);
 		background-size: 1200% 1200%;
 
 		-webkit-animation: AnimationName 10s ease infinite;
@@ -72,7 +72,17 @@ $on-laptop:        800px;
 		// Positioning context for the mobile navigation icon
 		position: relative;
 }
+/*@media screen and (max-width: 1000px) {
+	.site-header {
+		height: 54px;
+	}
+}*/
 
+@media screen and (max-width: 1000px) {
+	.site-logo {
+		height: 54px;
+	}
+}
 
 .site-header .wrapper {
 	max-width: -webkit-calc(1600px - (30px * 2));
@@ -91,6 +101,11 @@ $on-laptop:        800px;
 		&:visited {
 				color: $grey-color-dark;
 		}
+}
+@media screen and (max-width: 1000px) {
+	.site-title {
+		font-size: 24px;
+	}
 }
 
 .site-nav {
