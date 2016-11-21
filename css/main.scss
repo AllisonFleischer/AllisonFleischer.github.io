@@ -73,8 +73,14 @@ $on-laptop:        800px;
 		position: relative;
 }
 
+
+.site-header .wrapper {
+	max-width: -webkit-calc(1600px - (30px * 2));
+	max-width: calc(1600px - (30px * 2));
+}
+
 .site-title {
-		font-size: 26px;
+		font-size: 72px;
 		font-weight: 300;
 		line-height: 500px;
 		letter-spacing: -1px;
