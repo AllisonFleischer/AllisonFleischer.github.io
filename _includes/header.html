@@ -24,8 +24,8 @@
 				{% for my_page in site.pages %}
 					{% if my_page.title %}
 					<!--<a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>-->
-					<a class="page-link" href="https://crazya02.itch.io/"><img src="svg/controller.svg" height="54px">Games</a>
-					<a class="page-link" href="https://crazya02.bandcamp.com/"><img src="svg/note.svg" height="54px">Music</a>
+					<a class="page-link" href="https://crazya02.itch.io/"><img src="{{ full_base_url }}/svg/controller.svg" height="54px">Games</a>
+					<a class="page-link" href="https://crazya02.bandcamp.com/"><img src="{{ full_base_url }}/svg/note.svg" height="54px">Music</a>
 					{% endif %}
 				{% endfor %}
 			</div>
