@@ -111,3 +111,10 @@ $on-laptop:        800px;
 .site-nav {
 	float: right;
 	line-height: 500px; }
+
+.header-diag {
+    border-style: solid;
+    border-width: 90px 100vw 0 0;
+    border-color: transparent $background-color transparent transparent;
+    transform: scale(1.0001);
+}
