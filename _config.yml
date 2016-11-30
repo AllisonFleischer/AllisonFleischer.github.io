@@ -22,6 +22,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crazya02.github.io" # the base hostname & protocol for your site
 twitter_username: crazyal02
+twitter:
+  username: crazyal02 # Alternate Twitter format used for SEO
 github_username:  crazya02
 
 repository: "crazya02/crazya02.github.io"
@@ -29,3 +31,7 @@ repository: "crazya02/crazya02.github.io"
 # Build settings
 markdown: kramdown
 theme: minima
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
