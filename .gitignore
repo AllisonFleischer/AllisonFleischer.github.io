@@ -8,6 +8,7 @@ namefix.sh
 _site
 .sass-cache
 .jekyll-metadata
+Gemfile.lock
 
 #
 # WINDOWS:
