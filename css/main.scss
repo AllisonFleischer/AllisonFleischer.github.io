@@ -114,8 +114,13 @@ $on-laptop:        800px;
 	line-height: 500px; }
 
 .header-diag {
-		border-style: solid;
-		border-width: 90px 100vw 0 0;
-		border-color: transparent $background-color transparent transparent;
-		transform: scale(1.0001);
+	width: 0;
+	height: 0;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	border-style: solid;
+	border-width: 90px 100vw 0 0;
+	border-color: transparent $background-color transparent transparent;
+	//transform: scale(1.0001);
 }

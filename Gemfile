@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 ruby RUBY_VERSION
 
 gem "jekyll", "3.3.1"
