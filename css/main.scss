@@ -90,7 +90,6 @@ $on-laptop:        800px;
 }
 
 .site-title {
-		color: #FFF;
 		font-size: 72px;
 		font-weight: 300;
 		line-height: 500px;
@@ -115,8 +114,8 @@ $on-laptop:        800px;
 	line-height: 500px; }
 
 .header-diag {
-    border-style: solid;
-    border-width: 90px 100vw 0 0;
-    border-color: transparent $background-color transparent transparent;
-    transform: scale(1.0001);
+		border-style: solid;
+		border-width: 90px 100vw 0 0;
+		border-color: transparent $background-color transparent transparent;
+		transform: scale(1.0001);
 }
