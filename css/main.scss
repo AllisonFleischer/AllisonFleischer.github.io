@@ -124,3 +124,10 @@ $on-laptop:        800px;
 	border-color: transparent $background-color transparent transparent;
 	//transform: scale(1.0001);
 }
+
+.highlight {
+  -webkit-tab-size: 2 !important;
+     -moz-tab-size: 2 !important;
+       -o-tab-size: 2 !important;
+          tab-size: 2 !important;
+}

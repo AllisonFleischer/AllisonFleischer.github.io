@@ -36,4 +36,3 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - pygments.rb
