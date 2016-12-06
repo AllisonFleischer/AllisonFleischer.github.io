@@ -132,6 +132,7 @@ $on-laptop:        800px;
 					tab-size: 2 !important;
 }
 
-body {
-	margin-right: -17px;
+html, body {
+		max-width: 100%;
+		overflow-x: hidden;
 }
