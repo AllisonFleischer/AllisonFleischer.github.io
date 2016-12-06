@@ -8,4 +8,5 @@ gem "minima"
 group :jekyll_plugins do
 	gem 'jekyll-sitemap'
 	gem 'jekyll-seo-tag'
+	gem 'jekyll-relative-links'
 end
