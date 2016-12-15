@@ -25,6 +25,8 @@ twitter_username: crazyal02
 twitter:
   username: crazyal02 # Alternate Twitter format used for jekyll-seo
 github_username:  crazya02
+feed:
+  path: atom.xml
 
 repository: "crazya02/crazya02.github.io"
 
@@ -36,3 +38,4 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-relative-links
+  - jekyll-feed
