@@ -42,8 +42,10 @@ $on-laptop:        800px;
 
 .site-header {
 		background-color: #16506b;
-		background: linear-gradient(322deg, #001027, #021335, #0c2247, #16506b, #26607b, #15719b);
+		background: linear-gradient(322deg, #111, #222, #444, #222, #666, #555);
 		background-size: 1200% 1200%;
+
+		box-shadow: inset 0 0 0 1000px rgba(255,0,0,.2);
 
 		-webkit-animation: AnimationName 10s ease infinite;
 		-moz-animation: AnimationName 10s ease infinite;
