@@ -21,9 +21,9 @@ description: > # this means to ignore newlines until "baseurl:"
   I also talk about making games and music.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crazya02.github.io" # the base hostname & protocol for your site
-twitter_username: crazyal02
+twitter_username: alekfleischer
 twitter:
-  username: crazyal02 # Alternate Twitter format used for jekyll-seo
+  username: alekfleischer # Alternate Twitter format used for jekyll-seo
 github_username:  crazya02
 feed:
   path: atom.xml
