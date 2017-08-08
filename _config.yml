@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I make games and music.
   I also talk about making games and music.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://crazya02.github.io" # the base hostname & protocol for your site
+url: "https://alekfleischer.com/" # the base hostname & protocol for your site
 twitter_username: alekfleischer
 twitter:
   username: alekfleischer # Alternate Twitter format used for jekyll-seo
