@@ -4,7 +4,7 @@ date: '2017-08-09 11:10:00'
 layout: post
 image: /postimg/Huntress.jpg
 ---
-[A short EP that acts as the soundtrack to a jam game by felres.][thing-link]
+["Huntress" is a big Metroid cover album organized by Pixel Mixers! I made 3 tracks for it! Check it out!][thing-link]
 [![Album artwork]({{ site.url }}/postimg/Huntress.jpg)][thing-link]
 
 [thing-link]: placeholder
