@@ -1,10 +1,10 @@
 ---
 title: "NEW MUSIC: Huntress"
-date: '2017-08-09 11:10:00'
+date: '2017-08-13 13:17:00'
 layout: post
 image: /postimg/Huntress.jpg
 ---
 ["Huntress" is a big Metroid cover album organized by Pixel Mixers! I made 3 tracks for it! Check it out!][thing-link]
 [![Album artwork]({{ site.url }}/postimg/Huntress.jpg)][thing-link]
 
-[thing-link]: placeholder
+[thing-link]: https://youtu.be/hOoqw6yerYY
