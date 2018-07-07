@@ -3,7 +3,7 @@ title: "Aliased Road"
 date: '2018-06-01'
 visible: false
 layout: albumnotes
-category: albumnotes
+categories: [albumnotes, origalbum]
 image: /img/albumcovers/Aliased Road.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/aliased-road

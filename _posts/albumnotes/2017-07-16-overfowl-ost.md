@@ -3,7 +3,7 @@ title: "OVERFOWL OST"
 date: '2017-07-16'
 visible: false
 layout: albumnotes
-category: albumnotes
+categories: [albumnotes, origalbum]
 image: /img/albumcovers/OVERFOWL.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/overfowl-ost

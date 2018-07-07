@@ -6,22 +6,11 @@ title: Music
 <div class="home">
 
 	<h1 class="page-heading">Original Albums</h1>
+	{% assign category_name = "origalbum" %}
+	{% include albumgrid.html %}
 
-	<section id="photos">
-		{% for post in site.categories.albumnotes %}
-			<a href="{{ post.url | absolute_url }}">
-				<div class="hvrbox">
-					<img src="{{ post.image }}" class="hvrbox-layer_bottom">
-					<div class="hvrbox-layer_top">
-						<div div class="hvrbox-text">
-							{{ post.title | escape }}
-							<br>
-							<span class="hvrbox-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-						</div>
-					</div>
-				</div>
-			</a>
-		{% endfor %}
-	</section>
+	<h1 class="page-heading"><br>Featured On</h1>
+	{% assign category_name = "featurealbum" %}
+	{% include albumgrid.html %}
 
 </div>
