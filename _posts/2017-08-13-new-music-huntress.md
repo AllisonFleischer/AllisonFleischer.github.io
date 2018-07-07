@@ -1,6 +1,7 @@
 ---
 title: "NEW MUSIC: Huntress"
 date: '2017-08-13 13:17:00'
+visible: true
 layout: post
 image: /albumcovers/Huntress.jpg
 ---
