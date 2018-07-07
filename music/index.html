@@ -13,13 +13,15 @@ title: Music
 				<div class="hvrbox">
 					<img src="{{ post.image }}" class="hvrbox-layer_bottom">
 					<div class="hvrbox-layer_top">
-						<div div class="hvrbox-text">{{ post.title | escape }}</div>
+						<div div class="hvrbox-text">
+							{{ post.title | escape }}
+							<br>
+							<span class="hvrbox-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+						</div>
 					</div>
 				</div>
 			</a>
 		{% endfor %}
-		<!--<a href="{% post_url albumnotes/2018-07-06-huntress %}"><img src="{{ site.url }}/albumcovers/Huntress.jpg" alt="Huntress cover"></a>
-		<a href="https://alekfleischer.bandcamp.com/album/overfowl-ost"><img src="{{ site.url }}/albumcovers/OVERFOWL.png" alt="OVERFOWL cover"></a>-->
 	</section>
 
 </div>

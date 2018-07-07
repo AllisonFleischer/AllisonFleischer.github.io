@@ -16,8 +16,8 @@ layout: default
 
 	<img src="{{ page.image }}">
 
-	{% if page.bandcamplink %}
-		<center><iframe style="border: 0; width: 400px; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=530597598/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="{{ page.bandcamplink }}">OVERFOWL OST by Alek Fleischer</a></iframe></center>
+	{% if page.bandcamplink and page.bandcampid %}
+		<center><iframe style="border: 0; width: 400px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcampid }}/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="{{ page.bandcamplink }}">OVERFOWL OST by Alek Fleischer</a></iframe></center>
 	{% endif %}
 
 	<div class="post-content" itemprop="articleBody">

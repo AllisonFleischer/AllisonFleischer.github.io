@@ -7,5 +7,6 @@ category: albumnotes
 image: /img/albumcovers/OVERFOWL.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/overfowl-ost
+bandcampid: 530597598
 ---
-A short EP that acts as the soundtrack to a jam game by felres.
+A short collection of glitchy synthwave tracks.
