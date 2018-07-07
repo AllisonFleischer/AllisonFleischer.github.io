@@ -11,7 +11,6 @@ bandcampid: 1815259489
 spotifylink: https://open.spotify.com/album/0C7dbSrjIdm0Ep2R96OfdA
 applemusiclink: https://itunes.apple.com/us/album/the-ocean-stands-still-single/1403447518
 amazonmusiclink: https://www.amazon.com/dp/B07F179H6D
-googleplaylink: https://play.google.com/store/music/album/Alek_Fleischer_The_Ocean_Stands_Still?id=By6555dok2tf7tcifmowxil5puu&hl=en
 deezerlink: https://www.deezer.com/album/66763592?utm_source=deezer&utm_content=album-66763592&utm_term=0_1529945217&utm_medium=web
 ---
 Relaxing low-tempo synth tracks. Listen to these to chill out. Much less eclectic and hyperactive than my last few releases.
