@@ -3,10 +3,10 @@ title: "Aliased Road"
 date: '2018-06-01'
 visible: false
 layout: albumnotes
-categories: [albumnotes, origalbum]
+categories: [Album Notes, Releases]
 image: /img/albumcovers/Aliased Road.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/aliased-road
 bandcampid: 825371751
 ---
-A short EP that acts as the soundtrack to a jam game by felres.
+A short collection of glitchy synthwave tracks.
