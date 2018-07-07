@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-{% if page.minutes %}
-	{% assign minutes = page.minutes %}
-{% else %}
-	{% assign minutes = content | number_of_words | divided_by: 200 %}
-	{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-{% endif %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
 	<header class="post-header">
@@ -14,12 +8,52 @@ layout: default
 		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 	</header>
 
-	<img src="{{ page.image }}">
+	<img src="{{ page.image }}"><br>
 
 	{% if page.bandcamplink and page.bandcampid %}
-		<center><iframe style="border: 0; width: 400px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcampid }}/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="{{ page.bandcamplink }}">OVERFOWL OST by Alek Fleischer</a></iframe></center>
+		<center><iframe style="border: 0; width: 400px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcampid }}/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/tracklist=true/transparent=true/" seamless><a href="{{ page.bandcamplink }}">OVERFOWL OST by Alek Fleischer</a></iframe></center>
 	{% endif %}
 
+	<br><h1 class="page-heading">Listen and download:</h1>
+	<section id="photos">
+		{% if page.bandcamplink %}
+			<a href="{{ page.bandcamplink }}">
+				<img src="{{ "/img/musiclogos/bandcamp.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.spotifylink %}
+			<a href="{{ page.spotifylink }}">
+				<img src="{{ "/img/musiclogos/spotify.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.applemusiclink %}
+			<a href="{{ page.applemusiclink }}">
+				<img src="{{ "/img/musiclogos/applemusic.svg" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.amazonmusiclink %}
+			<a href="{{ page.amazonmusiclink }}">
+				<img src="{{ "/img/musiclogos/amazonmusic.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.googleplaylink %}
+			<a href="{{ page.googleplaylink }}">
+				<img src="{{ "/img/musiclogos/googleplay.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.deezerlink %}
+			<a href="{{ page.deezerlink }}">
+				<img src="{{ "/img/musiclogos/deezer.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+		{% if page.pixelmixerslink %}
+			<a href="{{ page.pixelmixerslink }}">
+				<img src="{{ "/img/musiclogos/pixelmixers.png" | prepend: full_base_url }}">
+			</a>
+		{% endif %}
+	</section>
+
+	<br><h1 class="page-heading">Notes:</h1>
 	<div class="post-content" itemprop="articleBody">
 		{{ content }}
 	</div>

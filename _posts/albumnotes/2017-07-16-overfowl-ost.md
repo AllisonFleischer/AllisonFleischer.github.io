@@ -10,3 +10,5 @@ bandcamplink: https://alekfleischer.bandcamp.com/album/overfowl-ost
 bandcampid: 530597598
 ---
 A tiny EP that acts as the soundtrack to a jam game by felres.
+
+Artwork by felres
