@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<div class="home">
+
+	<h1 class="page-heading">Music</h1>
+
+	<section id="photos">
+		{% for post in site.categories.albumnotes %}
+			<a href="{{ post.url | absolute_url }}"><img src="{{ post.image }}"></a>
+		{% endfor %}
+		<!--<a href="{% post_url albumnotes/2018-07-06-huntress %}"><img src="{{ site.url }}/albumcovers/Huntress.jpg" alt="Huntress cover"></a>
+		<a href="https://alekfleischer.bandcamp.com/album/overfowl-ost"><img src="{{ site.url }}/albumcovers/OVERFOWL.png" alt="OVERFOWL cover"></a>-->
+	</section>
+
+</div>

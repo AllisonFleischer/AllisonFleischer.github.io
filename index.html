@@ -8,6 +8,7 @@ layout: default
 
 	<ul class="post-list">
 		{% for post in site.posts %}
+			{% if post.visible == true %}
 			<li>
 				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -16,9 +17,10 @@ layout: default
 					<p style="font-size:12pt;color:#999;">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 					{% if post.excerpt != post.content %}
 						<a href="{{ site.baseurl }}{{ post.url }}" style="font-size:12pt;">Read more &rarr;</a>
-			{% endif %}
+					{% endif %}
 				</h2>
 			</li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% if page.minutes %}
+	{% assign minutes = page.minutes %}
+{% else %}
+	{% assign minutes = content | number_of_words | divided_by: 200 %}
+	{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+{% endif %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+	<header class="post-header">
+		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+	</header>
+
+	<img src="{{ page.image }}">
+
+	{% if page.bandcamplink %}
+		<center><iframe style="border: 0; width: 400px; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=530597598/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="{{ page.bandcamplink }}">OVERFOWL OST by Alek Fleischer</a></iframe></center>
+	{% endif %}
+
+	<div class="post-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+
+	{% if site.disqus.shortname %}
+		{% include disqus_comments.html %}
+	{% endif %}
+</article>
