@@ -18,3 +18,5 @@ At the start of the challenge, a theme is chosen randomly. Each participant then
 This album is free to download, proceeds from album purchases will go to the Angel of Hope animal rescue: [www.aohrescue.org](https://www.aohrescue.org)
 
 More information can be found here: [2hac.abstractionmusic.com](https://2hac.abstractionmusic.com)"
+
+20\. **[timestretch/hell]:** Stylistically this reminds me a bit of my early work. I was pretty busy when this was going on so I actually only spent 1 hour on this track! It still came out pretty neat though. The album track order is simply the same as submission order, so this crazy track ended up being sandwiched between two ambient pieces, which I like a lot: it basically makes it the Surprise Symphony of the album. ARE YOU PAYING ATTENTION?
