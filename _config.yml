@@ -34,7 +34,7 @@ repository: "crazya02/crazya02.github.io"
 markdown: kramdown
 theme: minima
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-relative-links
