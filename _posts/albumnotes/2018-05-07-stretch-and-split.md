@@ -5,6 +5,7 @@ visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
 image: /img/albumcovers/Stretch and Split.png
+featureorganizer: "Abstractionauts"
 
 bandcamplink: https://2hac.bandcamp.com/album/stretch-and-split-2hac-volume-2
 bandcampid: 2855253664
