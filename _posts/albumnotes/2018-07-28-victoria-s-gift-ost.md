@@ -4,7 +4,7 @@ date: '2018-07-28'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Victoria's Gift.JPG
+image: /img/albumcovers/Victorias Gift.JPG
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/victoria-s-gift-ost
 bandcampid: 781553712
