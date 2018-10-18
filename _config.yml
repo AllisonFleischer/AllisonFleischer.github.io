@@ -24,7 +24,7 @@ url: "https://alekfleischer.com" # the base hostname & protocol for your site
 twitter_username: alekfleischer
 twitter:
   username: alekfleischer # Alternate Twitter format used for jekyll-seo
-github_username:  crazya02
+github_username: Alek-Fleischer
 feed:
   path: atom.xml
 
