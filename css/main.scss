@@ -136,33 +136,6 @@ html, body {
 //Album section
 #photos {
 	 line-height: 0;
-
-	 -webkit-column-count: 3;
-	 -webkit-column-gap:   0px;
-	 -moz-column-count:    3;
-	 -moz-column-gap:      0px;
-	 column-count:         3;
-	 column-gap:           0px;
-}
-
-#photos img {
-	width: 100%;
-	height: auto;
-	display: block;
-}
-@media (max-width: 800px) {
-	#photos {
-	-moz-column-count:    2;
-	-webkit-column-count: 2;
-	column-count:         2;
-	}
-}
-@media (max-width: 500px) {
-	#photos {
-	-moz-column-count:    1;
-	-webkit-column-count: 1;
-	column-count:         1;
-	}
 }
 
 .hvrbox,
@@ -173,8 +146,19 @@ html, body {
 	position: relative;
 	display: inline-block;
 	overflow: hidden;
-	max-width: 100%;
+	width: 33.33%;
+	margin-right: -4px; //lol fuck
 	height: auto;
+}
+@media (max-width: 800px) {
+	.hvrbox {
+		width: 50%;
+	}
+}
+@media (max-width: 500px) {
+	.hvrbox {
+		width: 100%;
+	}
 }
 .hvrbox img {
 	max-width: 100%;
