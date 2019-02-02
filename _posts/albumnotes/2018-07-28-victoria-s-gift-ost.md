@@ -19,3 +19,5 @@ The map was made for a contest; link and more info once judging is over.
 3. **Abstract Space:** This plays in a blocky “modern art” segment with lots of blocky flat colors. In contrast with “Thorny Canvas”’s muddled, indistinct sound, “Abstract Space” feels very clean and exacting. In hindsight I think parts of it sound a little too close to “Sonic” by Eric Taxxon, but given his staunch anti-copyright stance I don’t think he’d mind too much.
 4. **Veteran’s Discount:** A reprise of “Into the Museum” that’s slow and short but extends the chord progression. Plays when you leave the Museum.
 5. **Glorious Finale:** This tiny track intentionally contrasts the others, to comedic effect. It’s also pretty cute, and shows the contrast inherent to Victoria going on a dangerous mission for a simple gift. The weird pitchbendy bits are a reference to that one fucking dude in elementary school who added a little “cha cha cha” at the end of every line of the birthday song. Every school had one of those. If you don’t know who it was, it was you. (But don’t feel bad, it was me too.)
+
+Artwork by ShinyKitten07
