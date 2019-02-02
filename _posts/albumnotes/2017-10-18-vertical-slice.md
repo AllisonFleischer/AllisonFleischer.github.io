@@ -4,7 +4,7 @@ date: '2017-10-18'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Vertical Slice.png
+cover: Vertical Slice.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/vertical-slice
 bandcampid: 3223065030

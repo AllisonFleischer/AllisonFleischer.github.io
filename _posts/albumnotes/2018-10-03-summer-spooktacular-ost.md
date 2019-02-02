@@ -4,7 +4,7 @@ date: '2018-10-03'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Summer Spooktacular.png
+cover: Summer Spooktacular.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/summer-spooktacular-ost
 bandcampid: 2708087475

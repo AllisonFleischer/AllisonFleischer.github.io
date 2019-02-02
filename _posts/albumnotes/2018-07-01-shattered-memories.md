@@ -4,7 +4,7 @@ date: '2018-07-01'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
-image: /img/albumcovers/Shattered Memories.jpg
+cover: Shattered Memories.jpg
 featureorganizer: "Pixel Mixers"
 
 pixelmixerslink: https://pixel-mixers.com/2018/07/01/xenogears-shattered-memories-tribute-album/

@@ -4,7 +4,7 @@ date: '2018-06-22'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/The Ocean Stands Still.jpg
+cover: The Ocean Stands Still.jpg
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/the-ocean-stands-still
 bandcampid: 1815259489

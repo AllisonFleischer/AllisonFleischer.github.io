@@ -4,7 +4,7 @@ date: '2010-08-07'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Longtrack 2 EP.png
+cover: Longtrack 2 EP.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/longtrack-2-ep
 bandcampid: 4081044840

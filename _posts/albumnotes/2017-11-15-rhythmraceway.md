@@ -4,7 +4,7 @@ date: '2017-11-15'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
-image: /img/albumcovers/Rhythm Raceway.png
+cover: Rhythm Raceway.png
 featureorganizer: "Pixel Mixers"
 
 pixelmixerslink: https://pixel-mixers.com/2017/11/15/mario-kart-rhythm-raceway-album/

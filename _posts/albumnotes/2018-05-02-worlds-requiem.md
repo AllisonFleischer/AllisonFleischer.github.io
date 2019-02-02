@@ -4,7 +4,7 @@ date: '2018-05-02'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
-image: /img/albumcovers/World's Requiem.png
+cover: World's Requiem.png
 featureorganizer: "Pixel Mixers"
 
 pixelmixerslink: https://pixel-mixers.com/2018/05/02/final-fantasy-vi-worlds-requiem-tribute-album/

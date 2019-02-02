@@ -4,7 +4,7 @@ date: '2017-12-27'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Unshackled OST.png
+cover: Unshackled OST.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/unshackled-ost
 bandcampid: 4024566170

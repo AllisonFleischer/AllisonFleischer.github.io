@@ -4,7 +4,7 @@ date: '2014-07-17'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Villi Adventure EP.png
+cover: Villi Adventure EP.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/villi-adventure-ep
 bandcampid: 138367139

@@ -2,7 +2,7 @@
 	{% for post in site.categories[category_name] %}
 		<a href="{{ post.url | absolute_url }}">
 			<div class="hvrbox">
-				<img src="{{ post.image }}" class="hvrbox-layer_bottom">
+				<img src="{{ post.cover | prepend: "/img/albumcovers/thumbs/"}}" class="hvrbox-layer_bottom">
 				<div class="hvrbox-layer_top">
 					<div div class="hvrbox-text">
 						{{ post.title | escape }}

@@ -4,7 +4,7 @@ date: '2015-04-19'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Releases]
-image: /img/albumcovers/Quality Television OST.png
+cover: Quality Television OST.png
 
 bandcamplink: https://alekfleischer.bandcamp.com/album/quality-television-ost
 bandcampid: 2975430290

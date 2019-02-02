@@ -4,7 +4,7 @@ date: '2018-11-06'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
-image: /img/albumcovers/Isolation.jpg
+cover: Isolation.jpg
 featureorganizer: "Abstractionauts"
 
 bandcamplink: https://2hac.bandcamp.com/album/isolation-2hac-volume-4

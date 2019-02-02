@@ -4,7 +4,7 @@ date: '2018-02-24'
 visible: false
 layout: albumnotes
 categories: [Album Notes, Featured On]
-image: /img/albumcovers/The Green (Greens) Album.jpg
+cover: The Green (Greens) Album.jpg
 featureorganizer: "Pixel Mixers"
 
 pixelmixerslink: https://pixel-mixers.com/2018/02/24/kirby-the-green-greens-album/
