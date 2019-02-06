@@ -1,5 +1,5 @@
 ---
-title: "Longtrack 2 EP"
+title: "Longtrack 2"
 date: '2010-08-07'
 visible: false
 layout: albumnotes

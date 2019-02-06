@@ -1,5 +1,5 @@
 ---
-title: "Unshackled OST"
+title: "Unshackled"
 date: '2017-12-27'
 visible: false
 layout: albumnotes

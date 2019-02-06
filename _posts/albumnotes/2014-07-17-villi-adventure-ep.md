@@ -1,5 +1,5 @@
 ---
-title: "Villi Adventure EP"
+title: "Villi Adventure"
 date: '2014-07-17'
 visible: false
 layout: albumnotes

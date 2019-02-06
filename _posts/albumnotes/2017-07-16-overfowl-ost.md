@@ -1,5 +1,5 @@
 ---
-title: "OVERFOWL OST"
+title: "OVERFOWL"
 date: '2017-07-16'
 visible: false
 layout: albumnotes

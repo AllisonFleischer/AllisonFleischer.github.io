@@ -1,5 +1,5 @@
 ---
-title: "Quality Television OST"
+title: "Quality Television"
 date: '2015-04-19'
 visible: false
 layout: albumnotes
