@@ -10,9 +10,7 @@ bandcamplink: https://alekfleischer.bandcamp.com/album/victoria-s-gift-ost
 bandcampid: 781553712
 ---
 
-Victoria’s Gift is a VVVVVV map by ShinyKitten07. This is its soundtrack.
-
-The map was made for a contest; link and more info once judging is over.
+[Victoria’s Gift](http://distractionware.com/forum/index.php?topic=3547.msg20611) is a VVVVVV map by ShinyKitten07. This is its soundtrack.
 
 1. **Into the Museum:** This album edit contains three in-game cues: the title theme, first entering the museum, and the shift into the columns area and more difficult gameplay. The result is a slow build in intensity, eventually exploding into a full breakdown near the end.
 2. **Thorny Canvas:** This plays when you end up inside the paintings. It’s a pretty weird track to match, and feels more organic and indistinct than the others to try and capture the feeling of messy analog brushstrokes. It also features random elements like the weird watery synth and the “modular” percussion, which means that the album edit (which a separate render so I could add the intro and outro, which means a different seed) sounds slightly different from how it is in-game.

@@ -10,7 +10,7 @@ bandcamplink: https://alekfleischer.bandcamp.com/album/summer-spooktacular-ost
 bandcampid: 2708087475
 ---
 
-This is a sort of a sequel/companion to the Victoria's Gift OST album, made for the same VVVVVV mapping contest (but scoring my own work this time instead of someone else's). The map was initially meant to release in summer (hence the name), but due to judging taking longer than expected it was delayed to October (when it's probably more fitting anyway). The music is inspired by Carpenter Brut, Mick Gordon, and vague memories of silly Halloween displays.
+This is a sort of a sequel/companion to the Victoria's Gift OST album, made for the same VVVVVV mapping contest (but scoring my own work this time instead of someone else's). [The map](http://distractionware.com/forum/index.php?topic=3598.0) was initially meant to release in summer (hence the name), but due to judging taking longer than expected it was delayed to October (when it's probably more fitting anyway). The music is inspired by Carpenter Brut, Mick Gordon, and vague memories of silly Halloween displays.
 
 1. **Into the Graveyard:** An introduction! I wanted to create a sort of "horror for the whole family" haunted house atmosphere, though the silliness is mostly toned down for now so I can ramp it up in "That's How You Get Ghosts, Man". This track ended up sounding like "Escape from Midwich Valley" by Carpenter Brut, if that track was somehow on low battery.
 2. **Safe Experiment:** A short jingle for when everything goes wrong.
