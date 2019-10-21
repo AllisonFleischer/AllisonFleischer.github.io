@@ -13,22 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alek Fleischer
+title: Allison Fleischer
 logo: /img/site/avatar_medium.png
 email: thecrazyal02@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I make games and music.
   I also talk about making games and music.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alekfleischer.com" # the base hostname & protocol for your site
-twitter_username: alekfleischer
+url: "https://allisonfleischer.com" # the base hostname & protocol for your site
+twitter_username: AllisonFleisch
 twitter:
-  username: alekfleischer # Alternate Twitter format used for jekyll-seo
-github_username: Alek-Fleischer
+  username: AllisonFleisch # Alternate Twitter format used for jekyll-seo
+github_username: AllisonFleischer
 feed:
   path: atom.xml
 
-repository: "crazya02/crazya02.github.io"
+repository: "AllisonFleischer/AllisonFleischer.github.io"
 
 # Build settings
 markdown: kramdown
@@ -37,5 +37,4 @@ theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-relative-links
   - jekyll-feed

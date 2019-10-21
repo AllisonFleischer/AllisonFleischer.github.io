@@ -1,13 +1,12 @@
 source "http://rubygems.org"
 ruby RUBY_VERSION
 
-gem "jekyll", ">= 3.8.4"
+gem "jekyll", "~> 4.0"
 gem "minima"
 
 
 group :jekyll_plugins do
 	gem 'jekyll-sitemap'
 	gem 'jekyll-seo-tag'
-	gem 'jekyll-relative-links'
 	gem 'jekyll-feed'
 end
