@@ -5,9 +5,6 @@
 		{% assign custom_url = site.url | append: site.baseurl %}
 		{% assign full_base_url = site.github.url | default: custom_url %}
 		<a class="site-title" href="{{ full_base_url }}/">
-			{% if site.logo %}
-				<img src="{{ full_base_url }}{{ site.logo }}" class="site-logo" width="auto" height="300">
-			{% endif %}
 			<span style="color:#FFF;">{{ site.title | escape }}</span>
 		</a>
 
@@ -25,8 +22,8 @@
 
 			<div class="trigger">
 				<!--<a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>-->
-				<a class="page-link" href="https://alekfleischer.itch.io/" style="color:#FFF;" target="_blank"><img src="{{ full_base_url }}/svg/controller.svg" height="54px">Games</a>
-				<a class="page-link" href="{{ full_base_url }}/music/" style="color:#FFF;" target="_blank"><img src="{{ full_base_url }}/svg/note.svg" height="54px">Music</a>
+				<a class="page-link" href="https://alekfleischer.itch.io/" style="color:#FFF;" target="_blank">Games</a>
+				<a class="page-link" href="https://www.youtube.com/channel/UC1r6BKi0MtuHvj1r_01-rUg" style="color:#FFF;" target="_blank">YouTube</a>
 			</div>
 		</nav>
 
