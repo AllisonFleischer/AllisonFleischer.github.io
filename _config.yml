@@ -16,9 +16,8 @@
 title: Allison Fleischer
 logo: /img/site/avatar_medium.png
 email: allisonfleisch@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I make games and music.
-  I also talk about making games and music.
+description: >
+  Hi, I make music and stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allisonfleischer.com" # the base hostname & protocol for your site
 twitter_username: AllisonFleisch
