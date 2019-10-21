@@ -3,7 +3,7 @@ title: "Longtrack 2"
 date: '2010-08-07'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Longtrack 2 EP.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/longtrack-2-ep

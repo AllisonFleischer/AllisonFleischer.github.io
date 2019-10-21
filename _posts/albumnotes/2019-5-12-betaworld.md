@@ -3,7 +3,7 @@ title: "Betaworld"
 date: '2019-5-12'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Betaworld.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/betaworld-ost

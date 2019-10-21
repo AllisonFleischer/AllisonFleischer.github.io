@@ -3,7 +3,7 @@ title: "Vertical Slice"
 date: '2017-10-18'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Vertical Slice.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/vertical-slice

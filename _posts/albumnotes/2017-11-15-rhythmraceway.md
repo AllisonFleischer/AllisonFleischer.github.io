@@ -3,7 +3,7 @@ title: "Rhythm Raceway"
 date: '2017-11-15'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Rhythm Raceway.png
 featureorganizer: "Pixel Mixers"
 

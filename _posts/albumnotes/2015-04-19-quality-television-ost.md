@@ -3,7 +3,7 @@ title: "Quality Television"
 date: '2015-04-19'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Quality Television OST.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/quality-television-ost

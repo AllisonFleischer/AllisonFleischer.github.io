@@ -3,7 +3,7 @@ title: "Unshackled"
 date: '2017-12-27'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Unshackled OST.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/unshackled-ost

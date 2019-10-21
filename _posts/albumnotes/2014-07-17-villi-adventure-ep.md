@@ -3,7 +3,7 @@ title: "Villi Adventure"
 date: '2014-07-17'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Villi Adventure EP.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/villi-adventure-ep

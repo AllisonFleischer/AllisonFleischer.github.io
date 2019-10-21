@@ -3,7 +3,7 @@ title: "Victoria's Gift"
 date: '2018-07-28'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Victorias Gift.jpg
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/victoria-s-gift-ost

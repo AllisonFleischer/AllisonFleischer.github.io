@@ -3,7 +3,7 @@ title: "OVERFOWL"
 date: '2017-07-16'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: OVERFOWL.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/overfowl-ost

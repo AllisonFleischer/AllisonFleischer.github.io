@@ -3,7 +3,7 @@ title: "World's Requiem"
 date: '2018-05-02'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: World's Requiem.png
 featureorganizer: "Pixel Mixers"
 

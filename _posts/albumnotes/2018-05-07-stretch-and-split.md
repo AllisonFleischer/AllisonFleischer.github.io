@@ -3,7 +3,7 @@ title: "Stretch and Split"
 date: '2018-05-07'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Stretch and Split.png
 featureorganizer: "Abstractionauts"
 

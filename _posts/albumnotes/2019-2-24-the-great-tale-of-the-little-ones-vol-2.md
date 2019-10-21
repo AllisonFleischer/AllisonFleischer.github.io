@@ -3,7 +3,7 @@ title: "The Great Tale of the Little Ones Vol. 2"
 date: '2019-2-24'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: The Great Tale of the Little Ones Vol. 2.png
 featureorganizer: "Pixel Mixers"
 

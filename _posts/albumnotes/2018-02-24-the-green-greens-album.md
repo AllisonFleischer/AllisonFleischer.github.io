@@ -3,7 +3,7 @@ title: "The Green (Greens) Album"
 date: '2018-02-24'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: The Green (Greens) Album.jpg
 featureorganizer: "Pixel Mixers"
 

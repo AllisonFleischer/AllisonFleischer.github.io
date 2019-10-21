@@ -3,7 +3,7 @@ title: "Summer Spooktacular"
 date: '2018-10-03'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Summer Spooktacular.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/summer-spooktacular-ost

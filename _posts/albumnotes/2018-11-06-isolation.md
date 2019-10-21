@@ -3,7 +3,7 @@ title: "Isolation"
 date: '2018-11-06'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Isolation.jpg
 featureorganizer: "Abstractionauts"
 

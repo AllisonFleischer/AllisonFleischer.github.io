@@ -3,7 +3,7 @@ title: "Shattered Memories"
 date: '2018-07-01'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Shattered Memories.jpg
 featureorganizer: "Pixel Mixers"
 

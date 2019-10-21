@@ -3,7 +3,7 @@ title: "Treetop Tunes"
 date: '2018-12-27'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Treetop Tunes.png
 featureorganizer: "Pixel Mixers"
 

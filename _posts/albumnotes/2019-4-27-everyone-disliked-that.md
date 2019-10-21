@@ -3,7 +3,7 @@ title: "Everyone disliked that."
 date: '2019-4-27'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Everyone disliked that.jpg
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/everyone-disliked-that

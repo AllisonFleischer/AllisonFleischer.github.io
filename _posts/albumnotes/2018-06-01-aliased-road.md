@@ -3,7 +3,7 @@ title: "Aliased Road"
 date: '2018-06-01'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Aliased Road.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/aliased-road

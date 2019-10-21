@@ -3,7 +3,7 @@ title: "Timeless Ocean"
 date: '2019-8-24'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Featured On]
+categories: [AlbumNotes, FeaturedOn]
 cover: Timeless Ocean.png
 featureorganizer: "Pixel Mixers"
 

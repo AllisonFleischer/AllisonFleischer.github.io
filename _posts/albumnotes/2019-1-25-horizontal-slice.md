@@ -3,7 +3,7 @@ title: "Horizontal Slice"
 date: '2019-1-25'
 visible: false
 layout: albumnotes
-categories: [Album Notes, Releases]
+categories: [AlbumNotes, Releases]
 cover: Horizontal Slice.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/horizontal-slice
