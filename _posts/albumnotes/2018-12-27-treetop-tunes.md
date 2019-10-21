@@ -21,7 +21,7 @@ We gathered 44 musicians to make more than 2h of music!
 
 We do not own any of the music, they were mostly composed by David Wise & Eveline Fischer."
 
-I, Aleksander Fleischer, support trans rights.
+I, Allison Fleischer, support trans rights. (EDIT 2019: a lot more than I expected actually)
 
 33\. **Scorch n' Torch:** What if Donkey Kong: Tropical Freeze sounded like Danger? It'd sound better than this probably but I still had a lot of fun making it.
 
