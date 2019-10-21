@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: The Ocean Stands Still.jpg
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/the-ocean-stands-still
+bandcamplink: https://allisonfleischer.bandcamp.com/album/the-ocean-stands-still
 bandcampid: 1815259489
 spotifylink: https://open.spotify.com/album/0C7dbSrjIdm0Ep2R96OfdA
 applemusiclink: https://itunes.apple.com/us/album/the-ocean-stands-still-single/1403447518

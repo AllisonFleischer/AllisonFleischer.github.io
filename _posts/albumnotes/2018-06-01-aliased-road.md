@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Aliased Road.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/aliased-road
+bandcamplink: https://allisonfleischer.bandcamp.com/album/aliased-road
 bandcampid: 825371751
 spotifylink: https://open.spotify.com/album/1yXlZZApGRhDneBURSIafE
 applemusiclink: https://itunes.apple.com/us/album/aliased-road-ep/1391643822

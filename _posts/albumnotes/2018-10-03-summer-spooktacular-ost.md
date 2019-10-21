@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Summer Spooktacular.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/summer-spooktacular-ost
+bandcamplink: https://allisonfleischer.bandcamp.com/album/summer-spooktacular-ost
 bandcampid: 2708087475
 ---
 

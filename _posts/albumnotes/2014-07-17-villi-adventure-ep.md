@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Villi Adventure EP.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/villi-adventure-ep
+bandcamplink: https://allisonfleischer.bandcamp.com/album/villi-adventure-ep
 bandcampid: 138367139
 ---
 This music was originally intended to be a video game soundtrack. It was a turn-based RPG being worked on by a distractionware forum member, but the game never ended up getting made. I didn't want to let the tracks I composed for it go to waste, so here they are as a standalone album. Most of these are boss themes, with the exception of the first track.

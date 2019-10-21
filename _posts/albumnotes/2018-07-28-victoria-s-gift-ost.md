@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Victorias Gift.jpg
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/victoria-s-gift-ost
+bandcamplink: https://allisonfleischer.bandcamp.com/album/victoria-s-gift-ost
 bandcampid: 781553712
 ---
 

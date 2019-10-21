@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Betaworld.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/betaworld-ost
+bandcamplink: https://allisonfleischer.bandcamp.com/album/betaworld-ost
 bandcampid: 2080171666
 ---
 A couple tracks I made for ["Betaworld"](http://distractionware.com/forum/index.php?topic=3707.0), a VVVVVV level by Betaworld Team.

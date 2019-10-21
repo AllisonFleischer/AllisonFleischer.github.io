@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Everyone disliked that.jpg
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/everyone-disliked-that
+bandcamplink: https://allisonfleischer.bandcamp.com/album/everyone-disliked-that
 bandcampid: 1140001913
 ---
 Deeply cursed mashup album.

@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Vertical Slice.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/vertical-slice
+bandcamplink: https://allisonfleischer.bandcamp.com/album/vertical-slice
 bandcampid: 3223065030
 ---
 A massive compilation of tracks I've made from a wide range of years for contests, failed projects, or the sake of themselves.

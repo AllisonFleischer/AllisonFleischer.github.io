@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: OVERFOWL.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/overfowl-ost
+bandcamplink: https://allisonfleischer.bandcamp.com/album/overfowl-ost
 bandcampid: 530597598
 ---
 A tiny EP that acts as the soundtrack to [a jam game](https://felres.itch.io/overfowl) by felres.

@@ -6,7 +6,7 @@ layout: albumnotes
 categories: [Album Notes, Releases]
 cover: Unshackled OST.png
 
-bandcamplink: https://alekfleischer.bandcamp.com/album/unshackled-ost
+bandcamplink: https://allisonfleischer.bandcamp.com/album/unshackled-ost
 bandcampid: 4024566170
 ---
 This is the soundtrack to a VVVVVV mod I made:
