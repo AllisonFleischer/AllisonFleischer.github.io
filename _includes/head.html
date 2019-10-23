@@ -13,10 +13,16 @@
 	<link rel="icon" type="image/png" href="{{"/img/site/avatar.png" | prepend: full_base_url}}" sizes= "100x100, 76x76, 60x60, 32x32, 16x16" />
 	<link rel="icon" type="image/png" href="{{"/img/site/avatar_medium.png" | prepend: full_base_url}}" sizes="192x192, 152x152, 120x120" />
 	<link rel="apple-touch-icon" href="{{"/img/site/avatar_medium.png" | prepend: full_base_url}}" />
-	<meta name="twitter:image" content="{{"/img/site/avatar_medium.png" | prepend: full_base_url}}" />
+
+	{% if page.layout == albumnotes %}
+		<meta name="twitter:image" content="{{ page.cover | prepend: "/img/albumcovers/thumbs/" | prepend: full_base_url }}" />
+	{% else %}
+		<meta name="twitter:image" content="{{ "/img/site/avatar_medium.png" | prepend: full_base_url }}" />
+	{% endif %}
 
 	{% if jekyll.environment == 'production' and site.google_analytics %}
-	{% include google-analytics.html %}
+		{% include google-analytics.html %}
 	{% endif %}
+
 	{% seo  %}
 </head>
