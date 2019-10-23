@@ -14,7 +14,7 @@
 	<link rel="icon" type="image/png" href="{{"/img/site/avatar_medium.png" | prepend: full_base_url}}" sizes="192x192, 152x152, 120x120" />
 	<link rel="apple-touch-icon" href="{{"/img/site/avatar_medium.png" | prepend: full_base_url}}" />
 
-	{% if page.layout == albumnotes %}
+	{% if page.layout == "albumnotes" %}
 		<meta name="twitter:image" content="{{ page.cover | prepend: "/img/albumcovers/thumbs/" | prepend: full_base_url }}" />
 	{% else %}
 		<meta name="twitter:image" content="{{ "/img/site/avatar_medium.png" | prepend: full_base_url }}" />
