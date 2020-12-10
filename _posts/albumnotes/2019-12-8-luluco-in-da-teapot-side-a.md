@@ -5,7 +5,7 @@ visible: false
 layout: albumnotes
 categories: [AlbumNotes, FeaturedOn]
 cover: LULUCO IN DA TEAPOT Side-A.png
-featureorganizer: "Starspire"
+featureorganizer: "Cheryl Stelli"
 
 bandcamplink: https://starspire.bandcamp.com/album/luluco-in-da-teapot-side-a
 bandcampid: 878292300
