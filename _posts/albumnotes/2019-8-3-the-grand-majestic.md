@@ -3,7 +3,7 @@ title: "The Grand Majestic"
 date: '2019-8-3'
 visible: false
 layout: albumnotes
-categories: [AlbumNotes, FeaturedOn]
+categories: [AlbumNotes, Releases]
 cover: The Grand Majestic.png
 featureorganizer: "AllyTally, Allison Fleischer, DaKook, weee50"
 
