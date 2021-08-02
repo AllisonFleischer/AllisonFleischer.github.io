@@ -4,7 +4,7 @@ date: '2020-4-4'
 visible: false
 layout: albumnotes
 categories: [AlbumNotes, Releases]
-cover: Sunburst Nebula.png
+cover: Sunburst Nebula.jpg
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/sunburst-nebula
 bandcampid: 1139167690
@@ -33,7 +33,5 @@ side 2: nebula (tracks 9-16)
 14. **let me in:** Not sure how I feel anymore about twisting this song to be about a lesbian relationship. It's starting to become clear that the yearning going on is mutual, which means it's about time to move to the next step.
 15. **mend the heart:** Like THE COSMOS, this is a grand moment of clarity, but it's a much more positive and intimate one. Partway through, the filter and the reverb gradually drain away, until everything is coming through bright and clear (an exciter's at work again). A real relationship is forming, and there's room for healing and understanding.
 16. **say:** One last pillowy track to close things off. With just one bright-eyed repeating couplet, our love story is at an end for now.
-
-cover art by Blood Machine
 
 for Frida & Eva 💙✨💫🌠💖
