@@ -8,11 +8,6 @@ cover: Aliased Road.png
 
 bandcamplink: https://allisonfleischer.bandcamp.com/album/aliased-road
 bandcampid: 825371751
-spotifylink: https://open.spotify.com/album/1yXlZZApGRhDneBURSIafE
-applemusiclink: https://itunes.apple.com/us/album/aliased-road-ep/1391643822
-amazonmusiclink: https://www.amazon.com/dp/B07DD5DJWV
-googleplaylink: https://play.google.com/store/music/album/Alek_Fleischer_Aliased_Road?id=Bf6g7vyx2l5ujwmctvvxu5f7pq4
-deezerlink: https://www.deezer.com/album/64728622?utm_source=deezer&utm_content=album-64728622&utm_term=0_1528370142&utm_medium=web
 ---
 “Aliased Road” is a glitchy synthwave EP. It’s entirely comprised of tracks made this year for specifically this purpose. Even though it’s a short album, I tried to take the listener on a journey: the tracks alternate between percussion-heavy tracks and less percussive interludes. Also, the opening tracks are a bit more accessible than the later ones, to introduce the listener to the album. Once you get to track 4 (“A Speaker Slowly Flying Apart”) things get pretty harsh, but then track 5 (the title track) takes a step back from this but brings back the percussion for a satisfying finish. I think I’m happier with this track order than any of my other releases. Unlike previously, I decided which role each track would play in the album before producing them, instead of trying to make them fit afterward. There’s still plenty of bangers and weird experimentation to go around though, and I hope you enjoy it!
 
